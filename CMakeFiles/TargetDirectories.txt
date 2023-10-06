@@ -1,0 +1,3 @@
+/Users/benchikbayor/nyu-processor-design.github.io/src/design_notebooks/Lab1/CMakeFiles/hello_world.dir
+/Users/benchikbayor/nyu-processor-design.github.io/src/design_notebooks/Lab1/CMakeFiles/edit_cache.dir
+/Users/benchikbayor/nyu-processor-design.github.io/src/design_notebooks/Lab1/CMakeFiles/rebuild_cache.dir
